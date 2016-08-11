@@ -1,0 +1,16 @@
+{
+  "name":"CI Test Centre",
+  "description":"Tool for testing CI codes",
+  "version":"0.0.1",
+  "time":"2016-08-10",
+  "license":"MIT",
+  "author":{
+    "name": "Abdul Muttaleb Maruf",
+    "email": "muttalebm@yahoo.com",
+    "homepage": "http://www.facebook.com/muttalebm",
+    "role": "Developer"
+  },
+  "require": {
+    "guzzlehttp/guzzle": "^6.2"
+  }
+}
